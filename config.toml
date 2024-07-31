@@ -1,0 +1,6 @@
+[params]
+  # Tus parámetros aquí
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
