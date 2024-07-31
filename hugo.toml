@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://theluisp.github.io/contadores-asociados/"
 languageCode = 'en-us'
 title = 'Contadores y asociados'
 theme = "PaperMod"
