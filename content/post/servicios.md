@@ -6,7 +6,7 @@ draft = false
 ### Nuestros Servicios
 
 - **Trámites Administrativos**: Ofrecemos asistencia completa en la gestión de trámites administrativos, asegurando que todos los procesos sean manejados de manera eficiente y sin contratiempos.
-![Trámites Administrativos](/images/tramites.png#thumbnail) 
+![Trámites Administrativos](/images/tramittes.png#thumbnail) 
 
 - **Declaraciones SAT**: Nos especializamos en la preparación y presentación de declaraciones fiscales ante el Servicio de Administración Tributaria (SAT), garantizando el cumplimiento con las normativas fiscales vigentes.
 
