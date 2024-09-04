@@ -2,37 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Contadores y asociados</title>
-    <link>https://example.org/post/</link>
+    <link>https://theluisp.github.io/contadores-asociados/post/</link>
     <description>Recent content in Posts on Contadores y asociados</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theluisp.github.io/contadores-asociados/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Quiénes somos?</title>
-      <link>https://example.org/post/mi-post/</link>
+      <link>https://theluisp.github.io/contadores-asociados/post/mi-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/mi-post/</guid>
-      <description>En Contadores y Asociados, somos un equipo de profesionales especializados en servicios contables y administrativos. Nos dedicamos a brindar asesoría personalizada y soluciones eficientes para particulares y empresas, adaptándonos a las necesidades específicas de cada cliente.
-¿Quieres saber más?
-Contáctanos para más información.
-Regresar al Inicio</description>
+      <guid>https://theluisp.github.io/contadores-asociados/post/mi-post/</guid>
+      <description>&lt;p&gt;En &lt;strong&gt;Contadores y Asociados&lt;/strong&gt;, somos un equipo de profesionales especializados en servicios contables y administrativos. Nos dedicamos a brindar asesoría personalizada y soluciones eficientes para particulares y empresas, adaptándonos a las necesidades específicas de cada cliente.&lt;/p&gt;
+&lt;p&gt;¿Quieres saber más?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wa.me/522213615696&#34;&gt;Contáctanos&lt;/a&gt; para más información.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://theluisp.github.io/contadores-asociados/&#34;&gt;Regresar al Inicio&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nuestros Servicios</title>
-      <link>https://example.org/post/servicios/</link>
+      <link>https://theluisp.github.io/contadores-asociados/post/servicios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/servicios/</guid>
-      <description>Nuestros Servicios Trámites Administrativos: Ofrecemos asistencia completa en la gestión de trámites administrativos, asegurando que todos los procesos sean manejados de manera eficiente y sin contratiempos. Declaraciones SAT: Nos especializamos en la preparación y presentación de declaraciones fiscales ante el Servicio de Administración Tributaria (SAT), garantizando el cumplimiento con las normativas fiscales vigentes.
-Permisos y Licencias: Asesoramos y gestionamos la obtención de permisos y licencias necesarios para el correcto funcionamiento de tu negocio, facilitando el proceso burocrático y asegurando la legalidad de todas tus operaciones.</description>
+      <guid>https://theluisp.github.io/contadores-asociados/post/servicios/</guid>
+      <description>&lt;h3 id=&#34;nuestros-servicios&#34;&gt;Nuestros Servicios&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Trámites Administrativos&lt;/strong&gt;: Ofrecemos asistencia completa en la gestión de trámites administrativos, asegurando que todos los procesos sean manejados de manera eficiente y sin contratiempos.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://theluisp.github.io/contadores-asociados/images/tramites.png#thumbnail&#34; alt=&#34;Trámites Administrativos&#34;  /&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Declaraciones SAT&lt;/strong&gt;: Nos especializamos en la preparación y presentación de declaraciones fiscales ante el Servicio de Administración Tributaria (SAT), garantizando el cumplimiento con las normativas fiscales vigentes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://theluisp.github.io/contadores-asociados/images/sat.png#sat&#34; alt=&#34;Declaraciones SAT&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Por qué elegirnos</title>
-      <link>https://example.org/post/porque-elegirnos/</link>
+      <link>https://theluisp.github.io/contadores-asociados/post/porque-elegirnos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/post/porque-elegirnos/</guid>
-      <description>En Contadores y Asociados, nos destacamos por ofrecer servicios contables y administrativos de alta calidad, respaldados por años de experiencia y un profundo conocimiento del sector. Aquí te explicamos por qué somos tu mejor opción:
-Experiencia y Profesionalismo
-Nuestro equipo está compuesto por profesionales altamente capacitados y con amplia experiencia en el manejo de trámites administrativos, declaraciones fiscales y obtención de permisos. Cada miembro de nuestro equipo aporta su experiencia y conocimientos para asegurar que tus necesidades sean atendidas con la máxima precisión y eficacia.</description>
+      <guid>https://theluisp.github.io/contadores-asociados/post/porque-elegirnos/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;En &lt;strong&gt;Contadores y Asociados&lt;/strong&gt;, nos destacamos por ofrecer servicios contables y administrativos de alta calidad, respaldados por años de experiencia y un profundo conocimiento del sector. Aquí te explicamos por qué somos tu mejor opción:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Experiencia y Profesionalismo&lt;/strong&gt;&lt;br&gt;
+Nuestro equipo está compuesto por profesionales altamente capacitados y con amplia experiencia en el manejo de trámites administrativos, declaraciones fiscales y obtención de permisos. Cada miembro de nuestro equipo aporta su experiencia y conocimientos para asegurar que tus necesidades sean atendidas con la máxima precisión y eficacia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
